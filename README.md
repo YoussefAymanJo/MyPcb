@@ -7,6 +7,7 @@ RGB light system for my setup
 
 ## PCB
 [![]([[https://ibb.co/KjXcsyt7](https://github.com/YoussefAymanJo/MyPcb/issues/1#issue-3072009494)(https://github.com/YoussefAymanJo/MyPcb/issues/2#issue-3072010297))](https://github.com/YoussefAymanJo/MyPcb/issues/2#issue-3072010297)
+
 [![]([https://ibb.co/STWCM2H](https://github.com/YoussefAymanJo/MyPcb/issues/3#issue-3072010521))](https://github.com/YoussefAymanJo/MyPcb/issues/3#issue-3072010521)
 
 ## Features
