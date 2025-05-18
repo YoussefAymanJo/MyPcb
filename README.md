@@ -1,6 +1,6 @@
-# Open555
+# Rbg PCB
 
-Rbg light system for my setup  
+RGB light system for my setup  
 
 ## Schematic
 ![](https://ibb.co/m5YwFWKT(https://ibb.co/m5YwFWKT)
@@ -16,7 +16,7 @@ Rbg light system for my setup
 - Special graphics on it
 
 ## How to build
-Just order the PCB & components, open up the KiCAD file and build it accordingly.
+Just order the PCB & components, open up the KiCAD file, and build it accordingly.
 
 ## BOM
 - 1 	Battery holder
@@ -24,6 +24,6 @@ Just order the PCB & components, open up the KiCAD file and build it accordingly
 - 3 	3 LEds
 - 1 	Push Button
 
-Made by `@Cyao` on slack :D
+Made by `@youseef` on slack :U08B5F4H8AW
 
 Made as a part of http://solder.hackclub.com/!
