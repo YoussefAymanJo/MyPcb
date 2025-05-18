@@ -3,12 +3,12 @@
 RGB light system for my setup  
 
 ## Schematic
-[![]([https://ibb.co/m5YwFWKT(https://ibb.co/m5YwFWKT](https://github.com/YoussefAymanJo/MyPcb/issues/1#issue-3072009494))](https://github.com/YoussefAymanJo/MyPcb/issues/1#issue-3072009494)
+![2025-05-18 17_34_16-solder1 — Schematic Editor](https://github.com/user-attachments/assets/6a519f30-9868-4bb8-8a97-9348094ee0cb)
 
 ## PCB
-[![]([[https://ibb.co/KjXcsyt7](https://github.com/YoussefAymanJo/MyPcb/issues/1#issue-3072009494)(https://github.com/YoussefAymanJo/MyPcb/issues/2#issue-3072010297))](https://github.com/YoussefAymanJo/MyPcb/issues/2#issue-3072010297)
 
-[![]([https://ibb.co/STWCM2H](https://github.com/YoussefAymanJo/MyPcb/issues/3#issue-3072010521))](https://github.com/YoussefAymanJo/MyPcb/issues/3#issue-3072010521)
+![2025-05-18 18_15_42-_solder1 — PCB Editor](https://github.com/user-attachments/assets/923b2979-4f68-46ac-8e75-7267b6463f99)
+![2025-05-18 18_15_54-3D Viewer](https://github.com/user-attachments/assets/c1c9ce17-a201-40c8-931e-3696e5fad80b)
 
 ## Features
 - Low power design! 3V operating voltage
