@@ -6,9 +6,10 @@ RGB light system for my setup
 ![2025-05-18 17_34_16-solder1 — Schematic Editor](https://github.com/user-attachments/assets/6a519f30-9868-4bb8-8a97-9348094ee0cb)
 
 ## PCB
+![2025-05-19 23_53_47-](https://github.com/user-attachments/assets/974d9b30-dad2-4e54-820e-5c883ac5cd27)
+![2025-05-21 23_42_10-solder1 — PCB Editor](https://github.com/user-attachments/assets/2505064d-b212-46b5-a4ac-709aa265ff56)
+![2025-05-21 23_03_27-3D Viewer](https://github.com/user-attachments/assets/44c53927-e826-4239-b539-68bb332c3834)
 
-![2025-05-18 18_15_42-_solder1 — PCB Editor](https://github.com/user-attachments/assets/923b2979-4f68-46ac-8e75-7267b6463f99)
-![2025-05-18 18_15_54-3D Viewer](https://github.com/user-attachments/assets/c1c9ce17-a201-40c8-931e-3696e5fad80b)
 
 ## Features
 - Low power design! 3V operating voltage
